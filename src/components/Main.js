@@ -19,8 +19,7 @@ function Main() {
             I'm
             <span className="before:block mx-4 mb-6 mt-4 before:absolute before:-inset-2 before:-skew-y-[3deg] before:bg-[#ec6e59;] relative inline-block">
               <span className="relative text-[#fffffff0] dark:text-[#20262E]">
-                Sayyam Shahid
-              </span>
+              Umama Abbasi</span>
             </span>
           </blockquote>
           <div className="h-10 mt-4">
@@ -28,17 +27,13 @@ function Main() {
           </div>
           <p className="dark:text-[#ccc] text-justify leading-loose pt-5 font-[400] mt-[-.8rem] text-custom-18 sm:text-[1rem] w-[90%] md:w-[95%] tm:w-full sm:w-full sm:mt-0">
             <strong>
-              Web 2.0 & 3.0 Development | Full Stack Developer | Gen AI Engineer
+            Software Engineer | Flutter Developer | Dart | Firebase | API Integration | Android | iOS 
             </strong>
             <i>
-              <strong> Internee at Sky Coaching, Islamabad</strong>
+              {/* <strong> Internee at Sky Coaching, Islamabad</strong> */}
             </i>
             <br />
-            Passionate full-stack developer skilled in MERN stack for dynamic
-            web apps. Studying Computer Science at FUUAST and Gen AI at Air
-            University, Islamabad. Expanding into Web 3.0, blockchain, and AI.
-            At Sky Coaching, I enhance my front-end and back-end skills, pushing
-            tech boundaries.
+            Passionate and dedicated Software Engineer with a recent Bachelor's degree in Software Engineering. Experienced in developing robust and user-friendly applications with a strong foundation in programming, problem-solving, and software development life cycles. Proficient in various programming languages and frameworks, including Flutter. 
           </p>
         </div>
         <div className="flex py-[10px] tm:mt-[40px] items-start mt-[-30px] tm:pr-0 sm:pr-0 sm:justify-between sm:flex-col">
@@ -58,14 +53,14 @@ function Main() {
           <div className="flex flex-row sm:flex-col gap-4">
             <a
               rel="noreferrer"
-              href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile"
+              href="https://www.linkedin.com/in/umama-abbasi-0307b2246/"
               target="_blank"
             >
               <AiFillLinkedin size={40} className="cursor-pointer" />
             </a>
             <a
               rel="noreferrer"
-              href="https://github.com/sayyam-dev"
+              href="https://github.com/Umama-Abbasi/"
               target="_blank"
             >
               <AiFillGithub size={40} className="cursor-pointer" />

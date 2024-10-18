@@ -27,7 +27,7 @@ function Contact() {
           Contact Me
         </h1>
         <p className=' cursor-pointer'><strong>You can contact me at Email</strong><GmailCopy/></p> <br />
-        <p className=' cursor-pointer'><strong>You can contact me at Whatsapp <br /> </strong>0318-5903219</p>
+        <p className=' cursor-pointer'><strong>You can contact me at Whatsapp <br /> </strong>03********</p>
       </div>
       <div className='flex justify-center'>
 
@@ -61,8 +61,8 @@ function Contact() {
         </form>
       </div>
 
-      <div className='flex justify-center items-center font-[350] text-[0.6rem] leading-loose sm:text-[1rem]  tm:text-[1rem]'> Copyright © 2023
-        <span className='font-[500]'>&nbsp;Rimsha&nbsp; </span>
+      <div className='flex justify-center items-center font-[350] text-[0.6rem] leading-loose sm:text-[1rem]  tm:text-[1rem]'> Copyright © 2024
+        <span className='font-[500]'>&nbsp;Sayyam Shahid&nbsp; </span>
 
         All Rights Reserved
 

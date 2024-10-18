@@ -2,22 +2,13 @@ import React, { useState, useEffect } from 'react';
 
 const Typewriter = () => {
   const strings = [
-    'Full Stack Developer',
-    'MERN Stack Developer',
-    'ReactJS',
-    'MongoDB',
-    'NodeJS',
-    'ExpressJS',
-    'NextJS',
-    'Figma',
-    'Python',
-    'C++',
-    'C',
-    'Html , CSS & JS',
-    'PHP',
-    'SQL',
-    'Bootstrap',
-
+    ' Software Engineer ',
+    'Flutter Developer',
+    'Dart',
+    'Firebase',
+    'API Integration',
+    'Android',
+    'iOS'
   ];
   const [currentStringIndex, setCurrentStringIndex] = useState(0);
   const [currentString, setCurrentString] = useState('');
